@@ -22,7 +22,6 @@ This project combines a tile-based JavaScript game board with Django views, temp
 * JavaScript
 * HTML
 * CSS
-* SQLite
 * bcrypt
 
 ## Project Structure
